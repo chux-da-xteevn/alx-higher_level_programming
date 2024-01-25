@@ -3,6 +3,6 @@
 
 
 
-class nSquare:
+class Square:
     """Square class body"""
     pass
