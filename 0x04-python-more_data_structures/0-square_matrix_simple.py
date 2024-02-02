@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-def aquare_matrix_simple(matrix=[]):
-    return [list(map((lambda x: x * x), elm)) for elm in matrix]
+def square_matrix_simple(matrix=[]):
+    return [[x**2 for x in row] for row in matrix]
