@@ -129,4 +129,3 @@ class Base:
             pen.right(90)
 
         window.exitonclick()
-
